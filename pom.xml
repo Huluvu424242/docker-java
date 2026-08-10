@@ -59,7 +59,7 @@
 
 		<jersey.version>3.1.12</jersey.version>
 		<jackson.version>2.14.2</jackson.version>
-		<jackson-jaxrs.version>2.10.3</jackson-jaxrs.version>
+		<jackson-jaxrs.version>2.22.1</jackson-jaxrs.version>
 		<httpclient.version>4.5.14</httpclient.version><!-- 4.5.1-4.5.2 broken -->
 		<commons-compress.version>1.28.0</commons-compress.version>
 		<commons-codec.version>1.11</commons-codec.version>
