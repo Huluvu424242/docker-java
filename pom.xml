@@ -72,7 +72,7 @@
 		<guava.version>23.0</guava.version> <!-- todo remove from project -->
 
 		<!-- test dependencies -->
-		<logback.version>1.6.2</logback.version>
+		<logback.version>1.6.3</logback.version>
 		<netty.version>4.2.17.Final</netty.version>
 		<hamcrest.library.version>3.0</hamcrest.library.version>
 		<hamcrest.jpa-matchers>1.8</hamcrest.jpa-matchers>
